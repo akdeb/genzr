@@ -215,6 +215,11 @@
     "@types/node-fetch" "^2.5.10"
     node-fetch "^2.6.1"
 
+"@phosphor-icons/react@^2.0.13":
+  version "2.0.13"
+  resolved "https://registry.yarnpkg.com/@phosphor-icons/react/-/react-2.0.13.tgz#4944b08859d16a6efdbd1e073b5e0ef7e8f55cb9"
+  integrity sha512-lRjFfCv4pU8vDnPgZ8/QFzYmAJS08Vx+J2/+Ldh217pXaxvaayBZMC/3EinuMwmMylc97+XYCMPdH+y10I+f0g==
+
 "@radix-ui/colors@^3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@radix-ui/colors/-/colors-3.0.0.tgz#e8a591a303c44e503bd1212cacf40a09511165e0"
